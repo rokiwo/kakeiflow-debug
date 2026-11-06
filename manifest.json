@@ -1,0 +1,31 @@
+{
+  "name": "デバッグ家計簿",
+  "short_name": "デバッグ家計簿",
+  "description": "デバッグ家計簿 (KakeiFlow Debug)",
+  "start_url": "/kakeiflow-debug/",
+  "scope": "/kakeiflow-debug/",
+  "display": "standalone",
+  "background_color": "#1B2B48",
+  "theme_color": "#1B2B48",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/kakeiflow-debug/apple-touch-icon.png?v=2",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/kakeiflow-debug/icon-192.png?v=2",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/kakeiflow-debug/icon-512.png?v=2",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
